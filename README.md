@@ -1,6 +1,6 @@
 # PRODUCT PREVIEW CARD
 
-![Design preview for the [PRODUCT PREVIEW CARD] challenge](preview.jpg)
+![Design preview for the [PRODUCT PREVIEW CARD] challenge](design\desktop-preview.jpg)
 
 ## Overview
 
