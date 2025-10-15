@@ -1,6 +1,6 @@
 # PRODUCT PREVIEW CARD
 
-![Design preview for the [PRODUCT PREVIEW CARD] challenge](design\desktop-preview.jpg)
+![Design preview for the [PRODUCT PREVIEW CARD] challenge](design/desktop-preview.jpg)
 
 ## Overview
 
@@ -25,7 +25,6 @@ The goal was to build a responsive component that matches the provided design us
 
 - Semantic **HTML5** markup  
 - **CSS3** with Flexbox 
-- **Mobile-first workflow**  
 
 ---
 
